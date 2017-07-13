@@ -1,0 +1,73 @@
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\twitter-desc.exe.config
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\twitter-desc.exe
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\twitter-desc.pdb
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\Autofac.dll
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.dll
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\Newtonsoft.Json.dll
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\Tweetinvi.dll
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\Autofac.xml
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.xml
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\Newtonsoft.Json.xml
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\obj\Debug\twitter-desc.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\obj\Debug\twitter_desc.Form1.resources
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\obj\Debug\twitter_desc.Properties.Resources.resources
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\obj\Debug\twitter-desc.csproj.GenerateResource.Cache
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\obj\Debug\twitter-desc.exe
+c:\users\александр\documents\visual studio 2015\Projects\twitter-desc\twitter-desc\obj\Debug\twitter-desc.pdb
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\twitter-desc.exe.config
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\twitter-desc.exe
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\twitter-desc.pdb
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\Autofac.dll
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.dll
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\Newtonsoft.Json.dll
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\System.Net.Http.Extensions.dll
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\System.Net.Http.Primitives.dll
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\Tweetinvi.dll
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\Autofac.xml
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.xml
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\Newtonsoft.Json.xml
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\System.Net.Http.Extensions.xml
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\bin\Debug\System.Net.Http.Primitives.xml
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\obj\Debug\twitter-desc.csprojResolveAssemblyReference.cache
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\obj\Debug\twitter_desc.Form1.resources
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\obj\Debug\twitter_desc.Properties.Resources.resources
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\obj\Debug\twitter-desc.csproj.GenerateResource.Cache
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\obj\Debug\twitter-desc.exe
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc\twitter-desc\obj\Debug\twitter-desc.pdb
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\twitter-desc.exe.config
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\twitter-desc.exe
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\twitter-desc.pdb
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\Autofac.dll
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.dll
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\Newtonsoft.Json.dll
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\System.Net.Http.Extensions.dll
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\System.Net.Http.Primitives.dll
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\Tweetinvi.dll
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\Autofac.xml
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.xml
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\Newtonsoft.Json.xml
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\System.Net.Http.Extensions.xml
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\bin\Debug\System.Net.Http.Primitives.xml
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\obj\Debug\twitter-desc.csprojResolveAssemblyReference.cache
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\obj\Debug\twitter_desc.Form1.resources
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\obj\Debug\twitter_desc.Properties.Resources.resources
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\obj\Debug\twitter-desc.csproj.GenerateResource.Cache
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\obj\Debug\twitter-desc.exe
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\obj\Debug\twitter-desc.pdb
+E:\Учеба_bsuir\КСИС\!Курсач\twitter-desc — копия\twitter-desc\obj\Debug\twitter_desc.Authentication.resources
